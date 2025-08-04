@@ -1,5 +1,6 @@
 --find-links https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py310_cu121_pyt240/download.html
 --find-links https://data.pyg.org/whl/torch-2.5.1+cu121.html
+--extra-index-url https://download.blender.org/pypi/
 
 absl-py==2.1.0
 accelerate==0.34.0
